@@ -1,8 +1,13 @@
 #Intelunnati_Fakenewsdetection
+  
   PROBLEM STATEMENT-Fake news detection using python and machine learning
+  
   MODEL USED FOR TRAINING- Support Vector Machine(SVM)
+  
   TEAM NAME- Trailblazers
+  
   INSTITUTION NAME- Rajalakshmi Institute of Technology
+  
   TEAM MEMBERS-
  
  1.SHANMUGAPRIYA K - shanmugapriya.k.2021.cse@ritchennai.edu.in
